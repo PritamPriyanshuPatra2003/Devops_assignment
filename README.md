@@ -1,4 +1,4 @@
-# Linux Commands Assignment 01
+**# Linux Commands Assignment 01
 
 ## Overview
 This repository contains **Assignment 01** on basic Linux commands.  
@@ -98,4 +98,3 @@ License
 This project is created for educational purposes.
 
 
-Paste this directly into `README.md`.
