@@ -1,4 +1,4 @@
-**# Linux Commands Assignment 01
+# Linux Commands Assignment 01
 
 ## Overview
 This repository contains **Assignment 01** on basic Linux commands.  
@@ -96,5 +96,3 @@ Pritam Priyanshu Patra
 License
 
 This project is created for educational purposes.
-
-
